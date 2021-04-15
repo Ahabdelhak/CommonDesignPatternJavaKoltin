@@ -1,4 +1,4 @@
-package com.ah_abdelhak.commondesignpattern.Builder.Java.Example1;
+package com.ah_abdelhak.commondesignpattern.FactoryMethod.Java.Example1;
 
 abstract class Plan{
     protected double rate;
